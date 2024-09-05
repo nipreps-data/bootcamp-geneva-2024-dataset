@@ -1,1 +1,10 @@
-TODO: Provide description for the dataset -- basic details about the study, possibly pointing to pre-registration (if public or embargoed)
+# Training data for the *fMRIPrep boot camp* | CMU, Geneva, Sept 9-11, 2024
+
+BIDS dataset to demonstrate the boot camp contents.
+
+## Authors
+
+Frédéric Grouiller, Emilie Claire Sleight
+
+**BIDS Conversion**: Oscar Esteban
+
