@@ -3,6 +3,7 @@
   "AcquisitionMatrixPE": 112,
   "AcquisitionNumber": 1,
   "AcquisitionTime": "14:20:23.685000",
+  "B0FieldIdentifier": "gre14",
   "BaseResolution": 112,
   "BidsGuess": [
     "fmap",
