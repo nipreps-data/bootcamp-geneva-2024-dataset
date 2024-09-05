@@ -195,7 +195,6 @@
   "SoftwareVersions": "syngo MR XA60",
   "SpacingBetweenSlices": 1.4,
   "StationName": "AWP237203",
-  "TaskName": "mixed",
   "TotalReadoutTime": 0.0429303,
   "TxRefAmp": 279.594
 }
