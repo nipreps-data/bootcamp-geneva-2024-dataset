@@ -1,23 +1,16 @@
 {
   "Acknowledgements": "Provided by Emilie C. Sleight for the fMRIPrep bootcamp",
   "Authors": [
-    "TODO:",
-    "First1 Last1",
-    "First2 Last2",
-    "..."
+    "Emilie C. Sleight",
+    "Oscar Esteban",
+    "Frédéric Grouiller"
   ],
   "BIDSVersion": "1.8.0",
-  "DatasetDOI": "TODO: eventually a DOI for the dataset",
-  "Funding": [
-    "TODO",
-    "GRANT #1",
-    "GRANT #2"
-  ],
-  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-  "Name": "TODO: name of the dataset",
+  "DatasetDOI": "",
+  "HowToAcknowledge": "Cite OpenNeuro's DOI",
+  "License": "CC-BY",
+  "Name": "fMRIPrep boot camp -- 7T training dataset",
   "ReferencesAndLinks": [
-    "TODO",
-    "List of papers or websites"
+    "https://doi.org/10.1038/s41592-018-0235-4"
   ]
 }
