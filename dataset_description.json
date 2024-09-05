@@ -6,7 +6,7 @@
     "Frédéric Grouiller"
   ],
   "BIDSVersion": "1.8.0",
-  "DatasetDOI": "",
+  "DatasetDOI": "10.18112/openneuro.ds005454.v1.0.0",
   "HowToAcknowledge": "Cite OpenNeuro's DOI",
   "License": "CC-BY",
   "Name": "fMRIPrep boot camp -- 7T training dataset",
